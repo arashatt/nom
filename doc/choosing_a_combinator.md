@@ -100,7 +100,7 @@ The following parsers could be found on [docs.rs number section](https://docs.rs
 
 ## Error management and debugging
 
-- [`dbg_dmp`](https://docs.rs/nom/latest/nom/fn.dbg_dmp.html): Prints a message and the input if the parser fails
+- [`dbg_dmp`](https://docs.rs/nom8/latest/nom8/error/fn.dbg_dmp.html): Prints a message and the input if the parser fails
 
 ## Text parsing
 
